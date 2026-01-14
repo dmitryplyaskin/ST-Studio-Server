@@ -1,6 +1,6 @@
 {
-    "name": "plugin-template-webpack",
-    "version": "1.0.0",
+    "name": "ST-Studio-Server",
+    "version": "0.0.1",
     "description": "Example server plugin.",
     "main": "dist/plugin.js",
     "type": "commonjs",
@@ -12,14 +12,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/SillyTavern/Plugin-WebpackTemplate.git"
+        "url": "git+https://github.com/dmitryplyaskin/ST-Studio-Server"
     },
     "author": "Cohee1207",
     "license": "AGPL-3.0-or-later",
     "bugs": {
-        "url": "https://github.com/SillyTavern/Plugin-WebpackTemplate/issues"
+        "url": "https://github.com/dmitryplyaskin/ST-Studio-Server/issues"
     },
-    "homepage": "https://github.com/SillyTavern/Plugin-WebpackTemplate#readme",
+    "homepage": "https://github.com/dmitryplyaskin/ST-Studio-Server#readme",
     "devDependencies": {
         "@eslint/js": "^9.0.0",
         "@types/express": "^4.17.21",
